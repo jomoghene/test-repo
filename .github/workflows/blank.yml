@@ -23,4 +23,4 @@ jobs:
       - name: cpu info
         run: nproc
       - name: karnel info
-        run: uname-r
+        run: uname -r
